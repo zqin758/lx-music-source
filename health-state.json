@@ -17,8 +17,8 @@
       "last_status": "可用"
     },
     "a.aa.cab": {
-      "consecutive_failures": 0,
-      "last_status": "可用"
+      "consecutive_failures": 1,
+      "last_status": "异常"
     },
     "anymatch.kuwo.cn": {
       "consecutive_failures": 0,
@@ -66,7 +66,7 @@
     },
     "api.music.lerd.dpdns.org": {
       "consecutive_failures": 0,
-      "last_status": "异常"
+      "last_status": "可用"
     },
     "api.nki.pw": {
       "consecutive_failures": 0,
@@ -77,8 +77,8 @@
       "last_status": "可用"
     },
     "api.vsaa.cn": {
-      "consecutive_failures": 2,
-      "last_status": "失效"
+      "consecutive_failures": 0,
+      "last_status": "可用"
     },
     "api.xcvts.cn": {
       "consecutive_failures": 0,
@@ -117,8 +117,8 @@
       "last_status": "可用"
     },
     "cyapi.top": {
-      "consecutive_failures": 2,
-      "last_status": "失效"
+      "consecutive_failures": 0,
+      "last_status": "可用"
     },
     "dl.stream.qqmusic.qq.com": {
       "consecutive_failures": 0,
@@ -288,11 +288,11 @@
     "hyw": "可用",
     "ikun": "失效",
     "jiexiang": "可用",
-    "juhe": "异常",
+    "juhe": "可用",
     "lx": "可用",
     "qdy": "可用",
     "xinghai": "可用",
     "yuningxi": "可用"
   },
-  "updated_at": "2026-11-07 05:59"
+  "updated_at": "2026-11-10 08:37"
 }
