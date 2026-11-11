@@ -13,8 +13,8 @@
       "last_status": "异常"
     },
     "88.lxmusic.xn--fiqs8s": {
-      "consecutive_failures": 0,
-      "last_status": "可用"
+      "consecutive_failures": 1,
+      "last_status": "异常"
     },
     "a.aa.cab": {
       "consecutive_failures": 2,
@@ -45,8 +45,8 @@
       "last_status": "异常"
     },
     "api.chksz.top": {
-      "consecutive_failures": 1,
-      "last_status": "异常"
+      "consecutive_failures": 0,
+      "last_status": "可用"
     },
     "api.huibq.com": {
       "consecutive_failures": 2,
@@ -105,8 +105,8 @@
       "last_status": "可用"
     },
     "app.c.nf.migu.cn": {
-      "consecutive_failures": 1,
-      "last_status": "异常"
+      "consecutive_failures": 0,
+      "last_status": "可用"
     },
     "c.wwwweb.top": {
       "consecutive_failures": 0,
@@ -189,8 +189,8 @@
       "last_status": "异常"
     },
     "music.migu.cn": {
-      "consecutive_failures": 1,
-      "last_status": "异常"
+      "consecutive_failures": 0,
+      "last_status": "可用"
     },
     "music.nxinxz.com": {
       "consecutive_failures": 0,
@@ -253,8 +253,8 @@
       "last_status": "可用"
     },
     "y.qq.com": {
-      "consecutive_failures": 0,
-      "last_status": "可用"
+      "consecutive_failures": 1,
+      "last_status": "异常"
     },
     "yinyue.haitangw.net": {
       "consecutive_failures": 0,
@@ -289,10 +289,10 @@
     "ikun": "失效",
     "jiexiang": "可用",
     "juhe": "异常",
-    "lx": "可用",
+    "lx": "异常",
     "qdy": "可用",
     "xinghai": "可用",
     "yuningxi": "可用"
   },
-  "updated_at": "2026-11-11 06:14"
+  "updated_at": "2026-11-12 07:23"
 }
